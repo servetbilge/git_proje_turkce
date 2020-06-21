@@ -1,0 +1,11 @@
+package firstpackage;
+
+public class FirstClass {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Fisrt Commit From Local repository");
+
+	}
+
+}
